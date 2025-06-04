@@ -18,8 +18,12 @@ Therefore, we provide a selection of examples for demonstration purposes.
   <div style="text-align: center; margin: 0 10px;">
     <p>第一个视频的标题</p>
     <video width="300" controls>
-      <source src="assests/dataset_example/action/00001_urbanvideo_train.mp4" type="video/mp4">
-      您的浏览器不支持视频播放。
+      <source src="assests/dataset_example/action/00001_urbanvideo
+
+https://github.com/user-attachments/assets/2312fd63-b532-4b81-ba4a-8185f78c7fa0
+
+_train.mp4" type="video/mp4">
+
     </video>
     <p>文本指令</p>
   </div>
