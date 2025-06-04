@@ -102,170 +102,101 @@ Therefore, we provide a selection of examples for demonstration purposes.
 AirScape takes the current observations and motion intentions as input and outputs future embodied sequence observations (videos). 
 Below are examples of videos generated on the test set.
 
-<div style="display: flex; justify-content: space-between; align-items: center;">
+<table border="0" style="width: 80%; text-align: left; margin-top: 20px;">
+  <tr>
+      <td>
+          <p>第一个</p>
+          <video src="https://github.com/user-attachments/assets/c01fa4b1-397d-4e0e-843b-9267c5a1cab6" width="50%" controls autoplay loop></video>
+          <p>prompt：</p>
+      </td>
+      <td>
+          <p>第二个</p>
+          <video src="https://github.com/user-attachments/assets/c01fa4b1-397d-4e0e-843b-9267c5a1cab6" width="50%" controls autoplay loop></video>
+          <p>prompt：</p>
+      </td>
+       <td>
+           <p>第三个</p>
+          <video src="https://github.com/user-attachments/assets/c01fa4b1-397d-4e0e-843b-9267c5a1cab6" width="50%" controls autoplay loop></video>
+           <p>prompt：</p>
+     </td>
+</table>
 
-  <!-- 第一个视频 -->
-  <div style="text-align: center; margin: 0 10px;">
-  <p>第一个视频的标题</p>
-  <video src=https://github.com/jmy-idea/airscapetest/blob/main/assests/generated_example/00819_urbanvideo_test.mp4 你好你好/>
-  <p>文本指令</p>
-  </div>
+<table border="0" style="width: 80%; text-align: left; margin-top: 20px;">
+  <tr>
+      <td>
+          <p>第一个</p>
+          <video src="https://github.com/user-attachments/assets/c01fa4b1-397d-4e0e-843b-9267c5a1cab6" width="50%" controls autoplay loop></video>
+          <p>prompt：</p>
+      </td>
+      <td>
+          <p>第二个</p>
+          <video src="https://github.com/user-attachments/assets/c01fa4b1-397d-4e0e-843b-9267c5a1cab6" width="50%" controls autoplay loop></video>
+          <p>prompt：</p>
+      </td>
+       <td>
+           <p>第三个</p>
+          <video src="https://github.com/user-attachments/assets/c01fa4b1-397d-4e0e-843b-9267c5a1cab6" width="50%" controls autoplay loop></video>
+           <p>prompt：</p>
+     </td>
+</table>
 
-  <!-- 第二个视频 -->
-  <div style="text-align: center; margin: 0 10px;">
-    <p>第二个视频的标题</p>
-    <video width="300" controls>
-      <source src="assests\generated_example\00840_urbanvideo_test.mp4" type="video/mp4">
-      您的浏览器不支持视频播放。
-    </video>
-    <p>文本指令</p>
-  </div>
+<table border="0" style="width: 80%; text-align: left; margin-top: 20px;">
+  <tr>
+      <td>
+          <p>第一个</p>
+          <video src="https://github.com/user-attachments/assets/c01fa4b1-397d-4e0e-843b-9267c5a1cab6" width="50%" controls autoplay loop></video>
+          <p>prompt：</p>
+      </td>
+      <td>
+          <p>第二个</p>
+          <video src="https://github.com/user-attachments/assets/c01fa4b1-397d-4e0e-843b-9267c5a1cab6" width="50%" controls autoplay loop></video>
+          <p>prompt：</p>
+      </td>
+       <td>
+           <p>第三个</p>
+          <video src="https://github.com/user-attachments/assets/c01fa4b1-397d-4e0e-843b-9267c5a1cab6" width="50%" controls autoplay loop></video>
+           <p>prompt：</p>
+     </td>
+</table>
 
-  <!-- 第三个视频 -->
-  <div style="text-align: center; margin: 0 10px;">
-    <p>第三个视频的标题</p>
-    <video width="300" controls>
-      <source src="assests\generated_example\00846_urbanvideo_test.mp4" type="video/mp4">
-      您的浏览器不支持视频播放。
-    </video>
-    <p>文本指令</p>
-  </div>
 
-</div>
+<table border="0" style="width: 80%; text-align: left; margin-top: 20px;">
+  <tr>
+      <td>
+          <p>第一个</p>
+          <video src="https://github.com/user-attachments/assets/c01fa4b1-397d-4e0e-843b-9267c5a1cab6" width="50%" controls autoplay loop></video>
+          <p>prompt：</p>
+      </td>
+      <td>
+          <p>第二个</p>
+          <video src="https://github.com/user-attachments/assets/c01fa4b1-397d-4e0e-843b-9267c5a1cab6" width="50%" controls autoplay loop></video>
+          <p>prompt：</p>
+      </td>
+       <td>
+           <p>第三个</p>
+          <video src="https://github.com/user-attachments/assets/c01fa4b1-397d-4e0e-843b-9267c5a1cab6" width="50%" controls autoplay loop></video>
+           <p>prompt：</p>
+     </td>
+</table>
 
-<div style="display: flex; justify-content: space-between; align-items: center;">
 
-  <!-- 第四个视频 -->
-  <div style="text-align: center; margin: 0 10px;">
-    <p>第四个视频的标题</p>
-    <video width="300" controls>
-      <source src="assests\generated_example\00930_urbanvideo_test.mp4" type="video/mp4">
-      您的浏览器不支持视频播放。
-    </video>
-    <p>文本指令</p>
-  </div>
-
-  <!-- 第五个视频 -->
-  <div style="text-align: center; margin: 0 10px;">
-    <p>第五个视频的标题</p>
-    <video width="300" controls>
-      <source src="assests\generated_example\01035_NAT2021_test_N02029_4.mp4" type="video/mp4">
-      您的浏览器不支持视频播放。
-    </video>
-    <p>文本指令</p>
-  </div>
-
-  <!-- 第六个视频 -->
-  <div style="text-align: center; margin: 0 10px;">
-    <p>第六个视频的标题</p>
-    <video width="300" controls>
-      <source src="assests\generated_example\01247_NAT2021_test_N04039_2.mp4" type="video/mp4">
-      您的浏览器不支持视频播放。
-    </video>
-    <p>文本指令</p>
-  </div>
-
-</div>
-
-<div style="display: flex; justify-content: space-between; align-items: center;">
-
-  <!-- 第七个视频 -->
-  <div style="text-align: center; margin: 0 10px;">
-    <p>第七个视频的标题</p>
-    <video width="300" controls>
-      <source src="assests\generated_example\01374_NAT2021_test_N08024_3.mp4" type="video/mp4">
-      您的浏览器不支持视频播放。
-    </video>
-    <p>文本指令</p>
-  </div>
-
-  <!-- 第八个视频 -->
-  <div style="text-align: center; margin: 0 10px;">
-    <p>第八个视频的标题</p>
-    <video width="300" controls>
-      <source src="assests\generated_example\11954_WebUAV3M_val_apartment_3_1.mp4" type="video/mp4">
-      您的浏览器不支持视频播放。
-    </video>
-    <p>文本指令</p>
-  </div>
-
-  <!-- 第九个视频 -->
-  <div style="text-align: center; margin: 0 10px;">
-    <p>第九个视频的标题</p>
-    <video width="300" controls>
-      <source src="assests\generated_example\11958_WebUAV3M_val_beacon_7_0.mp4" type="video/mp4">
-      您的浏览器不支持视频播放。
-    </video>
-    <p>文本指令</p>
-  </div>
-
-</div>
-
-<div style="display: flex; justify-content: space-between; align-items: center;">
-
-  <!-- 第十个视频 -->
-  <div style="text-align: center; margin: 0 10px;">
-    <p>第十个视频的标题</p>
-    <video width="300" controls>
-      <source src="assests\generated_example\11964_WebUAV3M_val_bulk_carrier_32_0.mp4" type="video/mp4">
-      您的浏览器不支持视频播放。
-    </video>
-    <p>文本指令</p>
-  </div>
-
-  <!-- 第十一个视频 -->
-  <div style="text-align: center; margin: 0 10px;">
-    <p>第十一个视频的标题</p>
-    <video width="300" controls>
-      <source src="assests\generated_example\11977_WebUAV3M_val_climbing_2_2.mp4" type="video/mp4">
-      您的浏览器不支持视频播放。
-    </video>
-    <p>文本指令</p>
-  </div>
-
-  <!-- 第十二个视频 -->
-  <div style="text-align: center; margin: 0 10px;">
-    <p>第十二个视频的标题</p>
-    <video width="300" controls>
-      <source src="assests\generated_example\11980_WebUAV3M_val_climbing_stairs_5_1.mp4" type="video/mp4">
-      您的浏览器不支持视频播放。
-    </video>
-    <p>文本指令</p>
-  </div>
-
-</div>
-
-<div style="display: flex; justify-content: space-between; align-items: center;">
-
-  <!-- 第十三个视频 -->
-  <div style="text-align: center; margin: 0 10px;">
-    <p>第十三个视频的标题</p>
-    <video width="300" controls>
-      <source src="assests\generated_example\11992_WebUAV3M_val_container_ship_6_0.mp4" type="video/mp4">
-      您的浏览器不支持视频播放。
-    </video>
-    <p>文本指令</p>
-  </div>
-
-  <!-- 第十四个视频 -->
-  <div style="text-align: center; margin: 0 10px;">
-    <p>第十四个视频的标题</p>
-    <video width="300" controls>
-      <source src="assests\generated_example\12026_WebUAV3M_val_harvester_23_1.mp4" type="video/mp4">
-      您的浏览器不支持视频播放。
-    </video>
-    <p>文本指令</p>
-  </div>
-
-  <!-- 第十五个视频 -->
-  <div style="text-align: center; margin: 0 10px;">
-    <p>第十五个视频的标题</p>
-    <video width="300" controls>
-      <source src="assests\generated_example\12033_WebUAV3M_val_harvester_34_6.mp4" type="video/mp4">
-    </video>
-    <p>文本指令</p>
-  </div>
-
-</div>
+<table border="0" style="width: 80%; text-align: left; margin-top: 20px;">
+  <tr>
+      <td>
+          <p>第一个</p>
+          <video src="https://github.com/user-attachments/assets/c01fa4b1-397d-4e0e-843b-9267c5a1cab6" width="50%" controls autoplay loop></video>
+          <p>prompt：</p>
+      </td>
+      <td>
+          <p>第二个</p>
+          <video src="https://github.com/user-attachments/assets/c01fa4b1-397d-4e0e-843b-9267c5a1cab6" width="50%" controls autoplay loop></video>
+          <p>prompt：</p>
+      </td>
+       <td>
+           <p>第三个</p>
+          <video src="https://github.com/user-attachments/assets/c01fa4b1-397d-4e0e-843b-9267c5a1cab6" width="50%" controls autoplay loop></video>
+           <p>prompt：</p>
+     </td>
+</table>
 
 
